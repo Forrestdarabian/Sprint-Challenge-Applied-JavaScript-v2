@@ -44,6 +44,8 @@ function createCard(article){
     authorsName = document.createElement('span')
 
       imgcontainer.classList.add('img-container')
+      img.classList.add('img')
+      author.classList.add('author')
          card.classList.add('card')
         headline.classList.add('headline')
     

@@ -45,7 +45,7 @@ function createCard(article){
 
       imgcontainer.classList.add('img-container')
       img.classList.add('img')
-      author.classList.add('author')
+      author.classList.add('author')     
          card.classList.add('card')
         headline.classList.add('headline')
     
